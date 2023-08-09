@@ -1,12 +1,15 @@
 # sushi-maison
-A html, css, vanilla javascript website.
+A html, css, vanilla javascript ,node.js website.
 
-![image](https://github.com/liyuanmontreal/sushi-maison/assets/65098066/e4d6b5cd-a278-46a4-b338-bfbc2566b110)
+![sushimaison](https://github.com/liyuanmontreal/sushi-maison/assets/65098066/b6ef16eb-6355-4263-9319-f8413e029447)
 
-![image](https://github.com/liyuanmontreal/sushi-maison/assets/65098066/a58bb882-0524-4bbb-8fd2-b271620716e8)
+![image](https://github.com/liyuanmontreal/sushi-maison/assets/65098066/e7d80b8e-4e7e-4397-8721-07dea92ee2db)
 
-![image](https://github.com/liyuanmontreal/sushi-maison/assets/65098066/e2c7ebc4-f7b1-402f-96b6-8522b5090d9b)
+![image](https://github.com/liyuanmontreal/sushi-maison/assets/65098066/f686fa70-b0bc-4539-8d71-ae1e8c2d592e)
 
-![image](https://github.com/liyuanmontreal/sushi-maison/assets/65098066/ed43121f-28c6-4a9f-9bd0-1bc2ad98aeb6)
+![image](https://github.com/liyuanmontreal/sushi-maison/assets/65098066/4cd2c737-d3f3-4684-82ef-34dad198987b)
+
+![image](https://github.com/liyuanmontreal/sushi-maison/assets/65098066/d4db3274-78cb-4ed6-8627-9c6d3c70c22d)
+
 
 
