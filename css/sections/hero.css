@@ -63,7 +63,7 @@
   }
   
   .hero-content-info p {
-    margin: 32px 0 0 32px;
+    margin: 32px 0 0 64px;
   
     font-family: var(--plus-jakarta-sans);
     color: var(--secondary-color);
